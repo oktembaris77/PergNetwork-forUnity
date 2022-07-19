@@ -1,0 +1,45 @@
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\bin\Debug\netstandard2.0\PergUnity3d.deps.json
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\bin\Debug\netstandard2.0\PergUnity3d.dll
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\bin\Debug\netstandard2.0\PergUnity3d.pdb
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.AssemblyInfoInputs.cache
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.AssemblyInfo.cs
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.csproj.CoreCompileInputs.cache
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.dll
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.pdb
+C:\Users\casper\Documents\PergNetwork\Assets\Perg Network\Plugins\netstandard2.0\PergUnity3d.deps.json
+C:\Users\casper\Documents\PergNetwork\Assets\Perg Network\Plugins\netstandard2.0\PergUnity3d.dll
+C:\Users\casper\Documents\PergNetwork\Assets\Perg Network\Plugins\netstandard2.0\PergUnity3d.pdb
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.Properties.Resources.resources
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.csproj.GenerateResource.cache
+C:\Users\casper\Documents\PergNetwork\Assets\Perg Network\Libs\netstandard2.0\PergUnity3d.deps.json
+C:\Users\casper\Documents\PergNetwork\Assets\Perg Network\Libs\netstandard2.0\PergUnity3d.dll
+C:\Users\casper\Documents\PergNetwork\Assets\Perg Network\Libs\netstandard2.0\PergUnity3d.pdb
+C:\Users\casper\Documents\Labyrinth\Assets\Perg Network\Libs\netstandard2.0\PergUnity3d.deps.json
+C:\Users\casper\Documents\Labyrinth\Assets\Perg Network\Libs\netstandard2.0\PergUnity3d.dll
+C:\Users\casper\Documents\Labyrinth\Assets\Perg Network\Libs\netstandard2.0\PergUnity3d.pdb
+C:\Users\casper\Documents\HackerAU\Assets\Perg Network\Libs\netstandard2.0\PergUnity3d.deps.json
+C:\Users\casper\Documents\HackerAU\Assets\Perg Network\Libs\netstandard2.0\PergUnity3d.dll
+C:\Users\casper\Documents\HackerAU\Assets\Perg Network\Libs\netstandard2.0\PergUnity3d.pdb
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.csproj.AssemblyReference.cache
+C:\Users\casper\source\repos\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.GeneratedMSBuildEditorConfig.editorconfig
+D:\Belgeler\PergRPG\Assets\PergNetwork\Libs\netstandard2.0\PergUnity3d.deps.json
+D:\Belgeler\PergRPG\Assets\PergNetwork\Libs\netstandard2.0\PergUnity3d.dll
+D:\Belgeler\PergRPG\Assets\PergNetwork\Libs\netstandard2.0\PergUnity3d.pdb
+C:\Users\casper\Desktop\Herşey\Projeler\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.csproj.AssemblyReference.cache
+C:\Users\casper\Desktop\Herşey\Projeler\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.Properties.Resources.resources
+C:\Users\casper\Desktop\Herşey\Projeler\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.csproj.GenerateResource.cache
+C:\Users\casper\Desktop\Herşey\Projeler\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casper\Desktop\Herşey\Projeler\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.AssemblyInfoInputs.cache
+C:\Users\casper\Desktop\Herşey\Projeler\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.AssemblyInfo.cs
+C:\Users\casper\Desktop\Herşey\Projeler\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.csproj.CoreCompileInputs.cache
+C:\Users\casper\Desktop\Herşey\Projeler\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.dll
+C:\Users\casper\Desktop\Herşey\Projeler\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.pdb
+D:\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.Properties.Resources.resources
+D:\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.csproj.GenerateResource.cache
+D:\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.GeneratedMSBuildEditorConfig.editorconfig
+D:\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.AssemblyInfoInputs.cache
+D:\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.AssemblyInfo.cs
+D:\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.csproj.CoreCompileInputs.cache
+D:\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.dll
+D:\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.pdb
+D:\Diğer\PergRPG\PergNetwork\PergUnity3d\PergUnity3d\obj\Debug\netstandard2.0\PergUnity3d.csproj.AssemblyReference.cache
