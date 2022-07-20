@@ -61,7 +61,7 @@ namespace PergUnity3d.Server
 
                 stream.BeginRead(receiveBuffer, 0, dataBufferSize, ReceiveCallback, null);
 
-                using (Packet _packet = new Packet((int)AlreadyServerPackets.welcome))
+                using (Packet _packet = new Packet((int)AvailableServerPackets.welcome))
                 {
                     _packet.Write("Selam Perg Network!");
                     _packet.Write(id); //Client Id

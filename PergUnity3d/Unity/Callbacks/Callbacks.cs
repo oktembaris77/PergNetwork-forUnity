@@ -100,7 +100,7 @@ namespace PergUnity3d
         /// <param name="objectType">0 -> None, 1 -> Player, 2 -> GameObject</param>
         /// <param name="ownerClientId"></param>
         /// <param name="clientId"></param>
-        public static void RemoveCallbacks(CallbackTypes callbackType, int objectType, int ownerClientId, int clientId = -1) //@@@@@@@@@@@@6109806
+        public static void RemoveCallbacks(CallbackTypes callbackType, int objectType, int ownerClientId, int clientId = -1)
         {
             if (objectType == 1)
             {

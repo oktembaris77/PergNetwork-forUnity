@@ -7,7 +7,7 @@ namespace PergUnity3d
 {
     public class PacketStream
     {
-        public Packet packet = new Packet((int)AlreadyClientPackets.serializedData);
+        public Packet packet = new Packet((int)AvailableClientPackets.serializedData);
         public SerializedTargets targets = SerializedTargets.Others;
         public SerializationType serializationType = SerializationType.Continuous;
         public DataEvent dataEvent;

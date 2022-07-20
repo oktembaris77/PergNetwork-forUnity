@@ -182,7 +182,7 @@ namespace PergUnity3d.Server
         /// <param name="fromServerHandle">Bu method eğer ServerHandle'dan çağrıldıysa "true" olur.</param>
         public static void PergRPC(int _fromClient, ParameterInfo[] parameterInfos, object[] parameters, Targets targets, Protocols protocols, bool fromSendBuffer = false, bool fromServerHandle = false)
         {
-            using (Packet _packet = new Packet((int)AlreadyServerPackets.pergRPC))
+            using (Packet _packet = new Packet((int)AvailableServerPackets.pergRPC))
             {
                 _packet.Write((int)parameters[0]);
                 for (int i = 1; i <= parameterInfos.Length; i++)
@@ -247,24 +247,17 @@ namespace PergUnity3d.Server
                     case Targets.OthersBuffered:
                         if (!fromSendBuffer)
                             Buffers.SetBuffers(_fromClient, parameters, protocols, PergUnity3d.PergRPC.clientSceneIdList.ToArray());
-                        if (protocols == Protocols.TCP) SendTCPDataToAll(_fromClient, _fromClient, _packet); // Gönderen istemciye gitmicek
+                        if (protocols == Protocols.TCP) SendTCPDataToAll(_fromClient, _fromClient, _packet); // Gönderen istemciye gitmeyecek
                         else SendUDPDataToAll(_fromClient, _fromClient, _packet);
                         break;
                     case Targets.AllBufferedViaServer:
                         if (!fromSendBuffer)
                             Buffers.SetBuffers(_fromClient, parameters, protocols, PergUnity3d.PergRPC.clientSceneIdList.ToArray());
-                        if (protocols == Protocols.TCP) SendTCPDataToAll(_fromClient, _packet); // Gönderen istemciye de gidicek, gönderenin yerelinde çalışmıcak
+                        if (protocols == Protocols.TCP) SendTCPDataToAll(_fromClient, _packet); // Gönderen istemciye de gidicek, gönderenin yerelinde çalışmayacak
                         else SendUDPDataToAll(_fromClient, _packet);
                         break;
                 }
             }
-        }
-        public static void ClientJoined()
-        {
-            /*using (Packet _packet = new Packet((int)AlreadyServerPackets.pergRPC))
-            {
-
-            }*/
         }
         #endregion
         internal static void ClearSpesificScenesList()

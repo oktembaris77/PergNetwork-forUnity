@@ -194,7 +194,7 @@ namespace PergUnity3d
         public static void SerializedPacketInfos(int count)
         {
             PergUnity3d.Server.Server.packetHandlers.Clear();
-            PergSerialized.AddServerPacketHandler((int)AlreadyClientPackets.pergRPC, PergUnity3d.Server.ServerHandle.PergRPC);
+            PergSerialized.AddServerPacketHandler((int)AvailableClientPackets.pergRPC, PergUnity3d.Server.ServerHandle.PergRPC);
 
             for (int i = 0; i < count; i++)
             {

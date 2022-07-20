@@ -269,7 +269,7 @@ namespace PergUnity3d
 
         private void InitializeClientData()
         {
-            packetHandlers.Add((int)AlreadyServerPackets.welcome, ClientHandle.Welcome);
+            packetHandlers.Add((int)AvailableServerPackets.welcome, ClientHandle.Welcome);
 
             Console.WriteLine("Initialized packets.");
         }

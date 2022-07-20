@@ -189,7 +189,7 @@ namespace PergUnity3d {
             if (!centralServer && targets != Targets.SpecificClientsForServer || hostClient && targets != Targets.SpecificClientsForServer)
             {
                 //int _fromClient, ParameterInfo[] parameterInfos, object[] parameters, Targets targets, Protocols protocols
-                using (Packet _packet = new Packet((int)AlreadyClientPackets.pergRPC))
+                using (Packet _packet = new Packet((int)AvailableClientPackets.pergRPC))
                 {
                     _packet.Write(RPCMethodId);
                     _packet.Write((int)targets);
@@ -233,7 +233,7 @@ namespace PergUnity3d {
 
         public static object[] GetPergRPCParametersList(string methodName)
         {
-            //List<MethodInfo> methodInfos = GetMethodInfos(); 6109806
+            //List<MethodInfo> methodInfos = GetMethodInfos();
             object[] parameters = null;
 
             foreach (MethodInfo methodInfo in MethodInfoList)
@@ -248,7 +248,7 @@ namespace PergUnity3d {
         }
         public static object[] GetPergRPCParametersList(int methodId)
         {
-            //List<MethodInfo> methodInfos = GetMethodInfos(); 6109806
+            //List<MethodInfo> methodInfos = GetMethodInfos();
             object[] parameters = null;
 
             for(int i =0; i< MethodInfoList.Count;i++)

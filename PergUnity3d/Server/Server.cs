@@ -135,7 +135,7 @@ namespace PergUnity3d.Server
                 clients.Add(i, new Client(i, 0));
             }
 
-            packetHandlers.Add((int)AlreadyClientPackets.pergRPC, ServerHandle.PergRPC);
+            packetHandlers.Add((int)AvailableClientPackets.pergRPC, ServerHandle.PergRPC);
             PacketHandlersCount = packetHandlers.Count;
         }
 

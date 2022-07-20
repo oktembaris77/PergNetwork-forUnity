@@ -69,9 +69,6 @@ public class PergSerialized
                 pergSerializationType[clientId][packetId].currentWrittenData.Add(writtenData);
             }
         }
-
-        //serializedParameterCount++; //610980606
-        //currentWrittenData.Add(new WrittenData(writtenData.data, writtenData.varType)); //610980606
     }
     public static void AddServerPacketHandler(int key, Server.PacketHandler packetHandler)
     {

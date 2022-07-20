@@ -6,14 +6,14 @@ using System.Text;
 using UnityEngine;
 
 /// <summary>Sent from server to client.</summary>
-public enum AlreadyServerPackets // Alınacak Veriler
+public enum AvailableServerPackets // Alınacak Veriler
 {
     welcome=0,
     pergRPC
 }
 
 /// <summary>Sent from client to server.</summary>
-public enum AlreadyClientPackets // Gönderilcek Veriler
+public enum AvailableClientPackets // Gönderilcek Veriler
 {
     pergRPC = 1,//0
     serializedData=2
